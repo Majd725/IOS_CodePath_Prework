@@ -3,7 +3,7 @@
 Submitted by: **Majd Alsehnawi**
 
 **IOS_CodePath_Prework** is an app that I made to test out and start with Xcode
-Time spent: **0.8** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
