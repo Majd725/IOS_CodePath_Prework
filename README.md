@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 - Reset Button resets everything.
  
 ## Video Walkthrough
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh1YnkyaXZ6ODFqdzh6aWFnMTR1dmR0ZWQxbTh2cW9kbDNwNDhvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Esul8CQFAKy4Xt8sVq/giphy.gif
-
+(https://www.loom.com/share/61e38e97c4ab47a9a58037e8aa185243?sid=8a3bebd0-7ecf-4197-a621-4f50f700b8ea)
 
 ## App Brainstorming (Step 4)
 
